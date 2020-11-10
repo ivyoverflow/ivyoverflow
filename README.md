@@ -1,3 +1,5 @@
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2F2b0ec5e7d4763b0cc6aaba6982be379c%2Ftumblr_oinx2rE0Dg1vmirxvo1_500.gif&f=1&nofb=1" width="530">
+
 ### Hey 👋, I'm Aliaksandr
 
 I'm a **student** and **software engineer** with experience in full stack web development. 🌊
