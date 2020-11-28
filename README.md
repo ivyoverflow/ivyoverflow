@@ -1,6 +1,6 @@
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2Fcca1e136569841.5720ffd3c7679.gif&f=1&nofb=1" >
 
-### Hey 👋, I'm Aliaksandr
+### Hey 👋, my name is Aliaksandr
 
 I'm a **student** and **software engineer** with API development experience and a desire to make the world a better place for different people.
 
