@@ -2,16 +2,7 @@
 
 ### Hey 👋, I'm Aliaksandr
 
-I'm a **student** and **software engineer** with experience in full stack web development. 🌊
-
-My experience includes following technologies:
-- 👾 Programming languages: Golang, JavaScript, Python, SQL, C++ (beginner level);
-- 💻 Web technologies: HTML, CSS;
-- 📦 Databases: PostgreSQL, MySQL (beginner level);
-- 🧪 JS Frameworks: React, Vue (beginner level);
-- 💽 Repositories: GitHub, GitLab;
-- ⚙️ Operating systems: Windows, Linux;
-- 🔧 Other: Git, Docker, JSON, XML, Postman. 
+I'm a student and software engineer with API development experience and a desire to make the world a better place for different people.
 
 🔗 How to reach me:<br/>
 [Email](mailto:belikaualiaksandr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aliaksandrbelikau/) | [GitHub](https://github.com/ivyoverflow)
