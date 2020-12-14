@@ -1,4 +1,4 @@
-### Hey 👋, my name is Alexander
+### Hey 👋,
 
 I'm a **student** 👨‍🎓 and **software engineer** 👨‍💻 with API development experience and a desire to make the world a better place for different people.
 
