@@ -4,7 +4,7 @@ I'm a **student** 👨‍🎓 and **software engineer** 👨‍💻 with API dev
 
 💻 Programming languages: Golang, JavaScript, Python, SQL;<br />
 🐙 Databases: PostgreSQL, MongoDB (beginner level);<br />
-🧰 Tools: Git, Docker, Kubernetes, Postman.
+🧰 Tools: Git, Docker, Kubernetes (beginner level), Postman.
 
 🔗 How to reach me:<br/>
 [Email](mailto:belikaualiaksandr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aliaksandrbelikau/) | [GitHub](https://github.com/ivyoverflow)
