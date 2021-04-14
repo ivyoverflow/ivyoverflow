@@ -3,8 +3,9 @@ I'm a **Software Engineer** 👨‍💻 with a desire to make the world a better
 
 💻 Favorite programming language: Golang;<br />
 🐙 Databases: PostgreSQL, MongoDB, Redis;<br />
-☁️ Cloud platforms: Azure;
-🧰 Tools: Git, Docker, CircleCI, TravisCI, GitHub Actions, GitLabCI, Terraform, Postman.
+☁️ Cloud platforms: Azure;<br />
+⛑️ CI/CD: CircleCI, TravisCI, GitLabCI, GitHub Actions;<br />
+🧰 Tools: Git, Docker, Terraform, Postman.
 
 🔗 How to reach me?<br />
 [Email](mailto:belikaualiaksandr@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aliaksandrbelikau/) | [GitHub](https://github.com/ivyoverflow)
